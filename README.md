@@ -18,7 +18,14 @@ To install anonLLM, run:
 ```bash
 pip install anonLLM
 ```
+### 1️⃣ Install [Ollama](https://ollama.com/)
+Ollama is a local LLM runtime that makes it easy to run open-source large language models on your machine.
 
+#### On macOS (with Homebrew):
+```bash
+brew install ollama
+ollama pull mistral
+```
 # Quick Start
 
 Here's how to get started with anonLLM:
