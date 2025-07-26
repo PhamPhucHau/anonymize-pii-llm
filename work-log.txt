@@ -1,0 +1,38 @@
+ Vấn đề: response là streaming response
+Phản hồi bạn nhận được là nhiều dòng JSON (NDJSON – Newline Delimited JSON), trong đó mỗi dòng chứa một phần nhỏ của kết quả (response) kèm flag done: false.
+
+Ví dụ:
+
+{"response": "John", "done": false}
+{"response": " Mason", "done": false}
+Điều này khác hoàn toàn với các API như OpenAI trả về một JSON hoàn chỉnh.
+
+✅ Giải pháp: Ghép nối từng dòng response
+Bạn cần đọc từng dòng JSON, lấy giá trị "response" và nối chúng lại thành một chuỗi hoàn chỉnh trước khi xử lý tiếp. Dưới đây là cách sửa phần xử lý phản hồi trong hàm generate():
+
+✅ Thay thế đoạn:
+text = response.json()["response"]
+❌ Bằng đoạn xử lý dòng NDJSON:
+text = ""
+for line in response.iter_lines():
+    if line:
+        try:
+            data = json.loads(line.decode("utf-8"))
+            text += data.get("response", "")
+        except json.JSONDecodeError as e:
+            print(f"❌ JSON decode error in line: {line}\n{e}")
+Và nhớ thay requests.post(... bằng thêm stream=True:
+response = requests.post(
+    f"{self.base_url}/api/generate",
+    json={
+        "model": self.model,
+        "prompt": full_prompt,
+        "temperature": self.temperature
+    },
+    stream=True  # <<< dòng mới cần thêm
+)
+🔧 Kết quả: Bạn sẽ nhận được toàn bộ văn bản như "John Mason\nEmail: turnerluis@example.org" và có thể tiếp tục gỡ ẩn danh hoặc phân tích.
+
+
+Làm tool auto rely mail 
+App password gmail : https://kb.pavietnam.vn/huong-dan-tao-app-password-tren-gmail.html

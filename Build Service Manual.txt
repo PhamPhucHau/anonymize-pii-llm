@@ -1,0 +1,25 @@
+[Unit]
+Description=Email Auto Responder
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /path/to/your_script.py
+WorkingDirectory=/path/to/
+Restart=always
+Environment=EMAIL=your@gmail.com
+Environment=PASSWORD=yourpassword
+Environment=FORWARD_TO=teammate@gmail.com
+
+[Install]
+WantedBy=multi-user.target
+
+# Run 
+sudo systemctl daemon-reexec
+sudo systemctl enable emailbot
+sudo systemctl start emailbot
+
+# Set Schedule
+crontab -e
+Add new Line
+* * * * * /usr/bin/python3 /path/to/your_script.py >> /var/log/emailbot.log 2>&1
+

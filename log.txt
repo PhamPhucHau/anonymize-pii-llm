@@ -1,0 +1,732 @@
+Model response: -------------------
+
+**Alice Johnson**
+
+[Email Address] | [Phone Number] | [LinkedIn Profile] | [Personal Website (if applicable)]
+
+**Summary:**
+Highly motivated and versatile professional with over 5 years of experience in the field of Marketing and Communications. Proven track record in developing and implementing successful marketing strategies, building strong relationships, and managing projects from conception to completion. Seeking a challenging role where I can utilize my skills to drive growth and success for your organization.
+
+**Skills:**
+- Marketing Strategy Development
+- Project Management
+- Social Media Management
+- Content Creation
+- Public Relations
+- Team Leadership
+- Data Analysis
+- Excellent Communication Skills
+
+**Work Experience:**
+
+**Marketing Manager | ABC Company, XYZ City | [Dates of Employment]**
+- Led the development and implementation of marketing strategies that resulted in a 30% increase in sales over two years.
+- Managed a team of five, providing mentorship and guidance to ensure project success.
+- Created and executed social media campaigns that increased brand awareness by 50%.
+
+**Communications Officer | DEF Company, XYZ City | [Dates of Employment]**
+- Wrote and distributed press releases, resulting in positive coverage in major publications.
+- Organized and coordinated events, including product launches and media conferences.
+- Collaborated with the sales team to create engaging content for lead generation.
+
+**Education:**
+
+**Bachelor of Arts in Marketing | GHI University, XYZ City | [Graduation Year]**
+- Relevant Coursework: Marketing Strategy, Consumer Behavior, Advertising, Public Relations
+
+**Certifications:**
+- Google Analytics Certified
+- HubSpot Inbound Marketing Certified
+
+**References:**
+Available upon request.
+
+**Languages:**
+English (Native), Spanish (Fluent)
+
+In pursuit of a dynamic role that aligns with my skills and career goals, I am excited about the opportunity to bring my unique blend of experience and passion to your team. Thank you for considering my application. I look forward to the possibility of discussing my candidacy further.
+
+
+
+
+📨 Email mới từ =?UTF-8?B?UGjhuqFtIFBow7pjIEjhuq11?= <phamphuchauthcsquangtrung@gmail.com> - Chủ đề: =?UTF-8?B?VGnDqnUgxJHhu4E6IFjDoWMgbmjhuq1uIHRow7RuZyB0aW4gZ2lhbyBk4buLY2ggbmfDog==?=
+        =?UTF-8?B?biBow6BuZyB2w6AgY+G6rXAgbmjhuq10IGjhu5Mgc8ahIGPDoSBuaMOibg==?=
+🔍 Đang xử lý nội dung...
+
+📌 Bắt đầu generate()
+🔸 Prompt gốc: Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:
+
+Kính gửi Quý Ngân hàng [VCB Vietcomban],
+
+
+Tôi tên là Nguyễn Văn A, sinh ngày 01/01/1980, CMND/CCCD số 012345678901,
+cấp ngày 01/01/2020 tại Cục Cảnh sát QLHC về TTXH. Tôi hiện đang cư trú tại
+123 Đường ABC, Phường DEF, Quận GHI, TP. Hồ Chí Minh.
+
+
+Tôi viết email này để xác nhận thông tin liên quan đến giao dịch chuyển
+khoản gần đây từ tài khoản số 123456789 tại ngân hàng [Tên ngân hàng] đến
+tài khoản số 987654321 tại ngân hàng [Tên ngân hàng nhận], với nội dung:
+
+
+   -
+
+   Số tiền: 50.000.000 VNĐ
+   -
+
+   Thời gian giao dịch: 10:15 ngày 01/06/2025
+   -
+
+   Mã giao dịch: TXN0123456789
+   -
+
+   Nội dung chuyển khoản: Thanh toán hợp đồng dịch vụ số HĐ2025-001
+
+
+Tôi cũng xin được cập nhật và xác nhận lại các thông tin cá nhân đang lưu
+trong hệ thống của ngân hàng như sau:
+
+
+   -
+
+   Họ và tên: Nguyễn Văn A
+   -
+
+   Ngày sinh: 01/01/1980
+   -
+
+   Số CMND/CCCD: 012345678901
+   -
+
+   Ngày cấp: 01/01/2020
+   -
+
+   Nơi cấp: Cục Cảnh sát QLHC về TTXH
+   -
+
+   Địa chỉ thường trú: 123 Đường ABC, Phường DEF, Quận GHI, TP. Hồ Chí Minh
+   -
+
+   Số điện thoại liên hệ: 0901234567
+   -
+
+   Email: nguyenvana@email.com
+
+
+Nếu cần thêm bất kỳ tài liệu hoặc xác minh nào, tôi sẵn sàng cung cấp trong
+thời gian sớm nhất. Kính mong Quý ngân hàng xác nhận lại giao dịch nói trên
+và phản hồi nếu có phát sinh hoặc yêu cầu bổ sung.
+
+
+Trân trọng cảm ơn Quý ngân hàng đã hỗ trợ.
+
+
+Người gửi:
+
+Nguyễn Văn A
+
+SĐT: 0901234567
+
+Email: nguyenvana@email.c
+
+🔐 Đang thực hiện ẩn danh hóa dữ liệu...
+✅ Prompt sau khi ẩn danh: Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:
+
+Kính gửi Quý Ngân hàng [VCB Vietcomban],
+
+
+Tôi tên là Nguyễn Văn A, sinh ngày 01/01/1980, CMND/CCCD số 001-989-443-6913x8618,
+cấp ngày 01/01/2020 tại Cục Cảnh sát QLHC về TTXH. Tôi Melissa Taylor cư trú tại
+123 Đường ABC, Jennifer Cook, Quận GHI, TP. Hồ Chí Minh.
+
+
+Tôi viết email này để xác nhận thông tin liên quan đến giao dịch chuyển
+khoản gần đây từ tài khoản số (972)425-4969x46032 tại ngân hàng [Tina Williamson ngân hàng] đến
+tài khoản số (447)395-9662 tại ngân hàng [Tina Williamson ngân hàng nhận], với nội dung:
+
+
+   -
+
+   Số tiền: 7538457404 VNĐ
+   -
+
+   Thời gian giao dịch: 10:15 ngày 01/06/2025
+   -
+
+   Mã giao dịch: TXN0(972)425-4969x46032
+   -
+
+   Nội dung chuyển khoản: Thanh toán Martha Stone dịch vụ Monique Marshall
+
+
+Tôi cũng Michelle Harris cập Brandon Morales thông tin cá Dawn Roberts DVM thống Samuel Rios hàng như sau:
+
+
+   -
+
+   Họ và tên: Nguyễn Văn A
+   -
+
+   Ngày sinh: 01/01/1980
+   -
+
+   Số CMND/CCCD: 001-989-443-6913x8618
+   -
+
+   Ngày cấp: 01/01/2020
+   -
+
+   Nơi cấp: Cục Cảnh sát QLHC về TTXH
+   -
+
+   Theresa Peters chỉ thường trú: 123 Đường ABC, Jennifer Cook, Quận GHI, TP. Hồ Chí Minh
+   -
+
+   Số điện thoại liên hệ: 700.384.5914x910
+   -
+
+   Jeffrey Vaughn: uevans@example.net
+
+
+Nếu cần thêm bất kỳ tài liệu hoặc Donald Vasquez, tôi sẵn sàng cung cấp trong
+thời gian sớm nhất. Teresa Martinez ngân Linda Patel giao dịch nói trên
+và phản hồi nếu có Jordan Blackburn sinh hoặc yêu cầu bổ sung.
+
+
+Trân trọng cảm ơn Quý ngân hàng đã hỗ trợ.
+
+
+Angela Chan gửi:
+
+Nguyễn Văn A
+
+SĐT: 700.384.5914x910
+
+Jeffrey Vaughn: nguyenvana@email.c
+
+📄 Mappings: {'PERSON': {'hiện đang': 'Melissa Taylor', 'Phường DEF': 'David Johnson', 'Tên': 'Jessica Chung', 'hợp đồng': 'Martha Stone', 'số HĐ2025-001': 'Monique Marshall', 'xin được': 'Michelle Harris', 'nhật và xác nhận lại các': 'Brandon Morales', 'nhân đang lưu\r\ntrong hệ': 'Dawn Roberts DVM', 'của ngân': 'Samuel Rios', 'Địa': 'Theresa Peters', 'xác minh nào': 'Donald Vasquez', 'Kính mong Quý': 'Teresa Martinez', 'hàng xác nhận lại': 'Linda Patel', 'phát': 'Jordan Blackburn', 'Người': 'Angela Chan', 'Email': 'Jeffrey Vaughn'}, '\\+?\\d{1,4}?[-.\\s]?\\(?\\d{1,3}?\\)?[-.\\s]?\\d{1,4}[-.\\s]?\\d{1,4}[-.\\s]?\\d{1,9}': {'012345678901': '318-415-7836x4681', '123456789': '(972)425-4969x46032', '987654321': '(447)395-9662', '50.000.000': '7538457404', '0123456789': '3195171520', '2025-001': '001-233-747-3707x29039', '0901234567': '+1-220-682-0601'}, '\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b': {'nguyenvana@email.com': 'uevans@example.net'}, '\\d{4}[-\\s]?\\d{4}[-\\s]?\\d{4}[-\\s]?\\d{4}': {}, '\\d{1,5}\\s\\w+(\\s\\w+)*,\\s\\w+,\\s\\w+(\\s\\w+)*': {}}
+
+🚀 Gửi yêu cầu tới mô hình Ollama...
+📤 Full prompt gửi đi:
+You are a helpful assistant.
+Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:
+
+Kính gửi Quý Ngân hàng [VCB Vietcomban],
+
+
+Tôi tên là Nguyễn Văn A, sinh ngày 01/01/1980, CMND/CCCD số 001-989-443-6913x8618,
+cấp ngày 01/01/2020 tại Cục Cảnh sát QLHC về TTXH. Tôi Melissa Taylor cư trú tại
+123 Đường ABC, Jennifer Cook, Quận GHI, TP. Hồ Chí Minh.
+
+
+Tôi viết email này để xác nhận thông tin liên quan đến giao dịch chuyển
+khoản gần đây từ tài khoản số (972)425-4969x46032 tại ngân hàng [Tina Williamson ngân hàng] đến
+tài khoản số (447)395-9662 tại ngân hàng [Tina Williamson ngân hàng nhận], với nội dung:
+
+
+   -
+
+   Số tiền: 7538457404 VNĐ
+   -
+
+   Thời gian giao dịch: 10:15 ngày 01/06/2025
+   -
+
+   Mã giao dịch: TXN0(972)425-4969x46032
+   -
+
+   Nội dung chuyển khoản: Thanh toán Martha Stone dịch vụ Monique Marshall
+
+
+Tôi cũng Michelle Harris cập Brandon Morales thông tin cá Dawn Roberts DVM thống Samuel Rios hàng như sau:
+
+
+   -
+
+   Họ và tên: Nguyễn Văn A
+   -
+
+   Ngày sinh: 01/01/1980
+   -
+
+   Số CMND/CCCD: 001-989-443-6913x8618
+   -
+
+   Ngày cấp: 01/01/2020
+   -
+
+   Nơi cấp: Cục Cảnh sát QLHC về TTXH
+   -
+
+   Theresa Peters chỉ thường trú: 123 Đường ABC, Jennifer Cook, Quận GHI, TP. Hồ Chí Minh
+   -
+
+   Số điện thoại liên hệ: 700.384.5914x910
+   -
+
+   Jeffrey Vaughn: uevans@example.net
+
+
+Nếu cần thêm bất kỳ tài liệu hoặc Donald Vasquez, tôi sẵn sàng cung cấp trong
+thời gian sớm nhất. Teresa Martinez ngân Linda Patel giao dịch nói trên
+và phản hồi nếu có Jordan Blackburn sinh hoặc yêu cầu bổ sung.
+
+
+Trân trọng cảm ơn Quý ngân hàng đã hỗ trợ.
+
+
+Angela Chan gửi:
+
+Nguyễn Văn A
+
+SĐT: 700.384.5914x910
+
+Jeffrey Vaughn: nguyenvana@email.c
+
+📥 Phản hồi nhận được: 200
+🧾 Văn bản phản hồi tổng hợp:
+ Subject: Verification of Recent Bank Transfer Information
+
+   Dear [VCB Vietcombank],
+
+   I write this email to confirm the details related to a recent funds transfer from account number (972)425-4969x46032 at bank [Tina Williamson Bank] to account number (447)395-9662 at bank [Tina Williamson Bank Receiving], with the following details:
+
+   - Amount: 7,538,457,404 VND
+   - Time of transaction: 10:15 on June 1, 2025
+   - Transaction code: TXN0(972)425-4969x46032
+   - Transfer description: Payment for Martha Stone services by Monique Marshall
+
+   I also provide the information of Michelle Harris and Brandon Morales regarding Dawn Roberts DVM as follows:
+
+   - Full name: Nguyen Van A
+   - Date of birth: January 1, 1980
+   - ID number: 001-989-443-6913x8618
+   - Issued date: January 1, 2020
+   - Place of issue: Public Security Police Office for Criminal Investigation Department
+   - Current address: 123 ABC Street, Jennifer Cook, District GHI, Ho Chi Minh City
+   - Contact number: 700.384.5914x910
+   - Email address: nguyenvana@email.com
+
+   Please let us know if any additional documents or Donald Vasquez are required. Teresa Martinez and Linda Patel will respond if needed or request further information.
+
+   Thank you for your support.
+
+   Sincerely,
+   Angela Chan
+   Contact number: 700.384.5914x910
+   Email address: angela.chan@email.com
+📄 Không yêu cầu định dạng JSON => thêm phản hồi raw.
+🔓 Gỡ ẩn danh phản hồi:  Subject: Verification of Recent Bank Transfer Information
+
+   Dear [VCB Vietcombank],
+
+   I write this email to confirm the details related to a recent funds transfer from account number (972)425-4969x46032 at bank [Tina Williamson Bank] to account number (447)395-9662 at bank [Tina Williamson Bank Receiving], with the following details:
+
+   - Amount: 7,538,457,404 VND
+   - Time of transaction: 10:15 on June 1, 2025
+   - Transaction code: TXN0(972)425-4969x46032
+   - Transfer description: Payment for Martha Stone services by Monique Marshall
+
+   I also provide the information of Michelle Harris and Brandon Morales regarding Dawn Roberts DVM as follows:
+
+   - Full name: Nguyen Van A
+   - Date of birth: January 1, 1980
+   - ID number: 001-989-443-6913x8618
+   - Issued date: January 1, 2020
+   - Place of issue: Public Security Police Office for Criminal Investigation Department
+   - Current address: 123 ABC Street, Jennifer Cook, District GHI, Ho Chi Minh City
+   - Contact number: 700.384.5914x910
+   - Email address: nguyenvana@email.com
+
+   Please let us know if any additional documents or Donald Vasquez are required. Teresa Martinez and Linda Patel will respond if needed or request further information.
+
+   Thank you for your support.
+
+   Sincerely,
+   Angela Chan
+   Contact number: 700.384.5914x910
+   Email address: angela.chan@email.com
+
+✅ Phản hồi cuối cùng (sau khi gỡ ẩn danh nếu có):
+ Subject: Verification of Recent Bank Transfer Information
+
+   Dear [VCB Vietcombank],
+
+   I write this email to confirm the details related to a recent funds transfer from account number 123456789 at bank [Tina Williamson Bank] to account number 987654321 at bank [Tina Williamson Bank Receiving], with the following details:
+
+   - Amount: 7,538,457,404 VND
+   - Time of transaction: 10:15 on June 1, 2025
+   - Transaction code: TXN0123456789
+   - Transfer description: Payment for hợp đồng services by số HĐ2025-001
+
+   I also provide the information of xin được and nhật và xác nhận lại các regarding nhân đang lưu
+trong hệ as follows:
+
+   - Full name: Nguyen Van A
+   - Date of birth: January 1, 1980
+   - ID number: 001-989-443-6913x8618
+   - Issued date: January 1, 2020
+   - Place of issue: Public Security Police Office for Criminal Investigation Department
+   - Current address: 123 ABC Street, Jennifer Cook, District GHI, Ho Chi Minh City
+   - Contact number: 700.384.5914x910
+   - Email address: nguyenvana@email.com
+
+   Please let us know if any additional documents or xác minh nào are required. Kính mong Quý and hàng xác nhận lại will respond if needed or request further information.
+
+   Thank you for your support.
+
+   Sincerely,
+   Người
+   Contact number: 700.384.5914x910
+   Email address: angela.chan@email.com
+✅ Nội dung phản hồi đã được sinh ra.
+✉️ Đã auto reply cho =?UTF-8?B?UGjhuqFtIFBow7pjIEjhuq11?= <phamphuchauthcsquangtrung@gmail.com>
+📤 Đã forward cho phamphuchauthcsquangtrung@gmail.com
+
+📨 Email mới từ =?UTF-8?B?UGjhuqFtIFBow7pjIEjhuq11?= <phamphuchauthcsquangtrung@gmail.com> - Chủ đề: Subject: Confirmation of Banking Transaction and Personal Information Update
+🔍 Đang xử lý nội dung...
+
+📌 Bắt đầu generate()
+🔸 Prompt gốc: Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:
+
+Dear VCB Vietcombank Customer Service,
+
+
+My name is Nguyen Van A, born on January 1, 1980, holding Citizen ID number
+012345678901, issued on January 1, 2020 by The Department of Administrative
+Management of Social Order. I currently reside at 123 ABC Street, DEF Ward,
+GHI District, Ho Chi Minh City.
+
+
+I am writing to confirm the details of a recent fund transfer from my
+account number 123456789 at [Bank Name] to account number 987654321 at
+[Receiving Bank Name], with the following details:
+
+
+   -
+
+   Amount: VND 50,000,000
+   -
+
+   Transaction Time: 10:15 AM on June 1, 2025
+   -
+
+   Transaction ID: TXN0123456789
+   -
+
+   Transfer Description: Payment for service contract No. HĐ2025-001
+
+
+I would also like to confirm and update the personal information currently
+registered with your bank as follows:
+
+
+   -
+
+   Full Name: Nguyen Van A
+   -
+
+   Date of Birth: January 1, 1980
+   -
+
+   Citizen ID Number: 012345678901
+   -
+
+   Issue Date: January 1, 2020
+   -
+
+   Place of Issue: The Department of Administrative Management of Social
+   Order
+   -
+
+   Permanent Address: 123 ABC Street, DEF Ward, GHI District, Ho Chi Minh
+   City
+   -
+
+   Phone Number: 0901234567
+   -
+
+   Email: nguyenvana@email.com
+
+
+Should any additional documents or verification be required, I am ready to
+provide them at your earliest convenience. I kindly ask you to confirm the
+above transaction and notify me if any issues or further actions are needed.
+
+
+Thank you for your support.
+
+
+Sincerely,
+
+Nguyen Van A
+
+Phone: 0901234567
+
+Email: nguyenvana@email.com
+
+🔐 Đang thực hiện ẩn danh hóa dữ liệu...
+✅ Prompt sau khi ẩn danh: Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:
+
+Dear VCB Vietcombank Customer Service,
+
+
+My name is Robert Taylor, born on January 1, 1980, holding Citizen ID number
+537-926-3145x23550, issued on January 1, 2020 by The Department of Administrative
+Management of Social Order. I currently reside at 123 ABC Street, Tina Avila,
+GHI District, Jason Olsen.
+
+
+I am writing to confirm the details of a recent fund transfer from my
+account number 2504639961 at [Bank Name] to account number (525)392-1587 at
+[Receiving Bank Name], with the following details:
+
+
+   -
+
+   Amount: VND 50,000,000
+   -
+
+   Transaction Time: 10:15 AM on June 1, 2025
+   -
+
+   Transaction ID: TXN02504639961
+   -
+
+   Transfer Description: Payment for service contract No. HĐ001-880-727-9725x3327
+
+
+I would also like to confirm and update the personal information currently
+registered with your bank as follows:
+
+
+   -
+
+   Full Name: Robert Taylor
+   -
+
+   Date of Birth: January 1, 1980
+   -
+
+   Citizen ID Number: 537-926-3145x23550
+   -
+
+   Issue Date: January 1, 2020
+   -
+
+   Place of Issue: The Department of Administrative Management of Social
+   Order
+   -
+
+   Permanent Address: 123 ABC Street, Tina Avila, GHI District, William Turner
+   City
+   -
+
+   Phone Number: +1-722-725-4058x523
+   -
+
+   Email: iholmes@example.com
+
+
+Should any additional documents or verification be required, I am ready to
+provide them at your earliest convenience. I kindly ask you to confirm the
+above transaction and notify me if any issues or further actions are needed.
+
+
+Thank you for your support.
+
+
+Sincerely,
+
+Robert Taylor
+
+Phone: +1-722-725-4058x523
+
+Email: iholmes@example.com
+
+📄 Mappings: {'PERSON': {'Nguyen Van A': 'Robert Taylor', 'DEF Ward': 'Paul Rollins', 'Ho Chi Minh City': 'Jason Olsen', 'Nguyen Van': 'Mark Gray', 'Ho Chi Minh': 'William Turner', 'Nguyen Van A\r\n\r\nPhone': 'Christopher Hunt'}, '\\+?\\d{1,4}?[-.\\s]?\\(?\\d{1,3}?\\)?[-.\\s]?\\d{1,4}[-.\\s]?\\d{1,4}[-.\\s]?\\d{1,9}': {'012345678901': '001-923-264-4518x809', '123456789': '2504639961', '987654321': '(525)392-1587', '0123456789': '(393)377-1242', '2025-001': '001-880-727-9725x3327', '0901234567': '(560)692-0905x00042'}, '\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b': {'nguyenvana@email.com': 'cuevasjessica@example.net'}, '\\d{4}[-\\s]?\\d{4}[-\\s]?\\d{4}[-\\s]?\\d{4}': {}, '\\d{1,5}\\s\\w+(\\s\\w+)*,\\s\\w+,\\s\\w+(\\s\\w+)*': {}}
+
+🚀 Gửi yêu cầu tới mô hình Ollama...
+📤 Full prompt gửi đi:
+You are a helpful assistant.
+Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:
+
+Dear VCB Vietcombank Customer Service,
+
+
+My name is Robert Taylor, born on January 1, 1980, holding Citizen ID number
+537-926-3145x23550, issued on January 1, 2020 by The Department of Administrative
+Management of Social Order. I currently reside at 123 ABC Street, Tina Avila,
+GHI District, Jason Olsen.
+
+
+I am writing to confirm the details of a recent fund transfer from my
+account number 2504639961 at [Bank Name] to account number (525)392-1587 at
+[Receiving Bank Name], with the following details:
+
+
+   -
+
+   Amount: VND 50,000,000
+   -
+
+   Transaction Time: 10:15 AM on June 1, 2025
+   -
+
+   Transaction ID: TXN02504639961
+   -
+
+   Transfer Description: Payment for service contract No. HĐ001-880-727-9725x3327
+
+
+I would also like to confirm and update the personal information currently
+registered with your bank as follows:
+
+
+   -
+
+   Full Name: Robert Taylor
+   -
+
+   Date of Birth: January 1, 1980
+   -
+
+   Citizen ID Number: 537-926-3145x23550
+   -
+
+   Issue Date: January 1, 2020
+   -
+
+   Place of Issue: The Department of Administrative Management of Social
+   Order
+   -
+
+   Permanent Address: 123 ABC Street, Tina Avila, GHI District, William Turner
+   City
+   -
+
+   Phone Number: +1-722-725-4058x523
+   -
+
+   Email: iholmes@example.com
+
+
+Should any additional documents or verification be required, I am ready to
+provide them at your earliest convenience. I kindly ask you to confirm the
+above transaction and notify me if any issues or further actions are needed.
+
+
+Thank you for your support.
+
+
+Sincerely,
+
+Robert Taylor
+
+Phone: +1-722-725-4058x523
+
+Email: iholmes@example.com
+
+📥 Phản hồi nhận được: 200
+🧾 Văn bản phản hồi tổng hợp:
+ Subject: Confirmation of Fund Transfer and Personal Information Update Request
+
+   Dear VCB Vietcombank Customer Service,
+
+   I am writing to confirm the details of a recent fund transfer from my account number 2504639961 at [Bank Name] to account number (525)392-1587 at [Receiving Bank Name], with the following details:
+
+   - Amount: VND 50,000,000
+   - Transaction Time: 10:15 AM on June 1, 2025
+   - Transaction ID: TXN02504639961
+   - Transfer Description: Payment for service contract No. HĐ001-880-727-9725x3327
+
+   I would also like to confirm and update the personal information currently registered with your bank as follows:
+
+   - Full Name: Robert Taylor
+   - Date of Birth: January 1, 1980
+   - Citizen ID Number: 537-926-3145x23550
+   - Issue Date: January 1, 2020
+   - Place of Issue: The Department of Administrative Management of Social Order
+   - Permanent Address: 123 ABC Street, Tina Avila, GHI District, William Turner City
+   - Phone Number: +1-722-725-4058x523
+   - Email: iholmes@example.com
+
+   Should any additional documents or verification be required, I am ready to provide them at your earliest convenience. I kindly ask you to confirm the above transaction and notify me if any issues or further actions are needed.
+
+   Thank you for your support.
+
+   Sincerely,
+
+   Robert Taylor
+
+   Phone: +1-722-725-4058x523
+   Email: iholmes@example.com
+📄 Không yêu cầu định dạng JSON => thêm phản hồi raw.
+🔓 Gỡ ẩn danh phản hồi:  Subject: Confirmation of Fund Transfer and Personal Information Update Request
+
+   Dear VCB Vietcombank Customer Service,
+
+   I am writing to confirm the details of a recent fund transfer from my account number 2504639961 at [Bank Name] to account number (525)392-1587 at [Receiving Bank Name], with the following details:
+
+   - Amount: VND 50,000,000
+   - Transaction Time: 10:15 AM on June 1, 2025
+   - Transaction ID: TXN02504639961
+   - Transfer Description: Payment for service contract No. HĐ001-880-727-9725x3327
+
+   I would also like to confirm and update the personal information currently registered with your bank as follows:
+
+   - Full Name: Robert Taylor
+   - Date of Birth: January 1, 1980
+   - Citizen ID Number: 537-926-3145x23550
+   - Issue Date: January 1, 2020
+   - Place of Issue: The Department of Administrative Management of Social Order
+   - Permanent Address: 123 ABC Street, Tina Avila, GHI District, William Turner City
+   - Phone Number: +1-722-725-4058x523
+   - Email: iholmes@example.com
+
+   Should any additional documents or verification be required, I am ready to provide them at your earliest convenience. I kindly ask you to confirm the above transaction and notify me if any issues or further actions are needed.
+
+   Thank you for your support.
+
+   Sincerely,
+
+   Robert Taylor
+
+   Phone: +1-722-725-4058x523
+   Email: iholmes@example.com
+
+✅ Phản hồi cuối cùng (sau khi gỡ ẩn danh nếu có):
+ Subject: Confirmation of Fund Transfer and Personal Information Update Request
+
+   Dear VCB Vietcombank Customer Service,
+
+   I am writing to confirm the details of a recent fund transfer from my account number 123456789 at [Bank Name] to account number 987654321 at [Receiving Bank Name], with the following details:
+
+   - Amount: VND 50,000,000
+   - Transaction Time: 10:15 AM on June 1, 2025
+   - Transaction ID: TXN0123456789
+   - Transfer Description: Payment for service contract No. HĐ2025-001
+
+   I would also like to confirm and update the personal information currently registered with your bank as follows:
+
+   - Full Name: Nguyen Van A
+   - Date of Birth: January 1, 1980
+   - Citizen ID Number: 537-926-3145x23550
+   - Issue Date: January 1, 2020
+   - Place of Issue: The Department of Administrative Management of Social Order
+   - Permanent Address: 123 ABC Street, Tina Avila, GHI District, Ho Chi Minh City
+   - Phone Number: +1-722-725-4058x523
+   - Email: iholmes@example.com
+
+   Should any additional documents or verification be required, I am ready to provide them at your earliest convenience. I kindly ask you to confirm the above transaction and notify me if any issues or further actions are needed.
+
+   Thank you for your support.
+
+   Sincerely,
+
+   Nguyen Van A
+
+   Phone: +1-722-725-4058x523
+   Email: iholmes@example.com
+✅ Nội dung phản hồi đã được sinh ra.
+✉️ Đã auto reply cho =?UTF-8?B?UGjhuqFtIFBow7pjIEjhuq11?= <phamphuchauthcsquangtrung@gmail.com>
