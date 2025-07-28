@@ -32,7 +32,8 @@ class OllamaLanguageModel:
             print(f"✅ Prompt sau khi ẩn danh: {anonymized_prompt}")
             Logger.save_text_to_file('output', 'prompt_anonimize.txt', anonymized_prompt)
             print(f"📄 Mappings: {mappings}")
-            Logger.save_text_to_file('output', 'mappings.txt', mappings)
+            Logger.save_text_to_file('output'
+            , 'mappings.txt', str(mappings))
         else:
             anonymized_prompt, mappings = prompt, None
             print("⚠️ Không thực hiện ẩn danh hóa.")

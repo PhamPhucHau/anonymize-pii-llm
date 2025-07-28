@@ -83,7 +83,7 @@ def auto_process():
         reply_text = llm.generate(prompt)
 
         print("✅ Nội dung phản hồi đã được sinh ra.")
-
+        return
         # Gửi lại cho người gửi
         send_email(sender, f"Re: {subject}", reply_text)
         print(f"✉️ Đã auto reply cho {sender}")
