@@ -27,3 +27,6 @@ Thumbs.db
 
 # Experimental folders and files
 exp_*
+
+pii_ner_model
+output

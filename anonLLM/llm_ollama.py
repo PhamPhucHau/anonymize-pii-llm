@@ -6,6 +6,7 @@ from typing import Type, Optional
 import os
 from anonLLM.anonymizer import Anonymizer
 from anonLLM.deanonymizer import Deanonymizer
+from logger import Logger
 
 
 class OllamaLanguageModel:
@@ -24,16 +25,19 @@ class OllamaLanguageModel:
 
         print("\n📌 Bắt đầu generate()")
         print(f"🔸 Prompt gốc: {prompt}")
-
+        Logger.save_text_to_file('output', 'prompt.txt', prompt)
         if self.anonymize:
             print("🔐 Đang thực hiện ẩn danh hóa dữ liệu...")
             anonymized_prompt, mappings = self.anonymizer.anonymize_data(prompt)
             print(f"✅ Prompt sau khi ẩn danh: {anonymized_prompt}")
+            Logger.save_text_to_file('output', 'prompt_anonimize.txt', anonymized_prompt)
             print(f"📄 Mappings: {mappings}")
+            Logger.save_text_to_file('output'
+            , 'mappings.txt', str(mappings))
         else:
             anonymized_prompt, mappings = prompt, None
             print("⚠️ Không thực hiện ẩn danh hóa.")
-
+        return;
         valid_responses = []
 
         while len(valid_responses) < n_completions:
