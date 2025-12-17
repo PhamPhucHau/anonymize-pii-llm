@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 from dotenv import load_dotenv
 import os
 from anonLLM.llm_ollama import OllamaLanguageModel
-
+from autoprint import AutoPrint
 # Load môi trường
 load_dotenv()
 EMAIL = os.getenv("EMAIL")
@@ -79,11 +79,12 @@ def auto_process():
         print(f"\n📨 Email mới từ {sender} - Chủ đề: {subject}")
         print("🔍 Đang xử lý nội dung...")
 
-        prompt = f"Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:\n\n{body}"
+        prompt = f"Reply politely and briefly to the following email:\n\n{body}"
         reply_text = llm.generate(prompt)
 
         print("✅ Nội dung phản hồi đã được sinh ra.")
-
+        logger_response = AutoPrint(log_file="log/Response.txt", timestamp=True)
+        logger_response.print(f"🔸 Nội dung phản hồi:\n{reply_text}")
         # Gửi lại cho người gửi
         send_email(sender, f"Re: {subject}", reply_text)
         print(f"✉️ Đã auto reply cho {sender}")

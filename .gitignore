@@ -27,3 +27,6 @@ Thumbs.db
 
 # Experimental folders and files
 exp_*
+/log
+*.txt
+*.log

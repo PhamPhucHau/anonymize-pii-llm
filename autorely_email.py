@@ -78,7 +78,7 @@ def auto_process():
         print(f"\n📨 Email mới từ {sender} - Chủ đề: {subject}")
         print("🔍 Đang xử lý nội dung...")
 
-        prompt = f"Trả lời lịch sự và ngắn gọn email sau và ẩn danh thông tin cá nhân:\n\n{body}"
+        prompt = f"Reply politely and briefly to the following email:\n\n{body}"
         reply_text = llm.generate(prompt)
 
         print("✅ Nội dung phản hồi đã được sinh ra.")

@@ -6,7 +6,7 @@ from typing import Type, Optional
 import os
 from anonLLM.anonymizer import Anonymizer
 from anonLLM.deanonymizer import Deanonymizer
-
+from autoprint import AutoPrint
 
 class OllamaLanguageModel:
     def __init__(self, model="mistral", temperature=0.5, anonymize=True, base_url="http://localhost:11434"):
@@ -24,12 +24,17 @@ class OllamaLanguageModel:
 
         print("\n📌 Bắt đầu generate()")
         print(f"🔸 Prompt gốc: {prompt}")
-
+        logger_before = AutoPrint(log_file="log/Before.txt", timestamp=True)
+        logger_after = AutoPrint(log_file="log/After.txt", timestamp=True)
+        logger_map = AutoPrint(log_file="log/Map.txt", timestamp=True)
+        logger_before.print(f"🔸 Prompt gốc: {prompt}")
         if self.anonymize:
             print("🔐 Đang thực hiện ẩn danh hóa dữ liệu...")
             anonymized_prompt, mappings = self.anonymizer.anonymize_data(prompt)
             print(f"✅ Prompt sau khi ẩn danh: {anonymized_prompt}")
+            logger_after.print(f"✅ Prompt sau khi ẩn danh: {anonymized_prompt}")
             print(f"📄 Mappings: {mappings}")
+            logger_map.print(f"📄 Mappings: {mappings}")
         else:
             anonymized_prompt, mappings = prompt, None
             print("⚠️ Không thực hiện ẩn danh hóa.")
