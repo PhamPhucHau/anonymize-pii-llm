@@ -1,9 +1,16 @@
+import sys
+import os
+
+# Add parent directory to path so we can import anonLLM
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+sys.path.insert(0, project_root)
 import time
 import json
 import requests
 from pydantic import BaseModel, ValidationError, ConfigDict
 from typing import Type, Optional
 import os
+
 from anonLLM.anonymizer import Anonymizer
 from anonLLM.deanonymizer import Deanonymizer
 from autoprint import AutoPrint

@@ -1,0 +1,180 @@
+[
+  {
+    "email_id": "EMAIL_001",
+    "subject": "Account Verification Required",
+    "context": "Banking - Fraud Detection",
+    "score": 3,
+    "risk_level": "High",
+    "remaining_pii": [
+      "PERSON_9468",
+      "PERSON_6005",
+      "michael.turner@examplemail.com",
+      "[PERSON_8083]",
+      "CA",
+      "[ORG_6270]"
+    ],
+    "reasoning": "Although account numbers, dates and some organization IDs have been replaced with codes, the original account holder's username (PERSON_9468) and recipient's email address (michael.turner@examplemail.com) are still present, providing direct identifiers for at least two individuals. The geographic location provided (CA) is also narrow enough to potentially identify an individual if combined with other information. The high risk level indicates that re-identification of the affected persons is possible based on this remaining PII.",
+    "mappings_count": 7
+  },
+  {
+    "email_id": "EMAIL_002",
+    "subject": "Payroll Profile Verification",
+    "context": "HR - Employee Data",
+    "score": 4,
+    "risk_level": "High",
+    "remaining_pii": [
+      "Employee Full Name: [PERSON_3065]",
+      "Personal Email: sarah.collins@workmail.test",
+      "Phone Number: [NORP_5011]",
+      "[ORG_2007]: 1208 [PERSON_1691], [GPE_8635], [ORG_4434] for Salary: [DATE_0475] [DATE_5491]"
+    ],
+    "reasoning": "The text contains several elements that can potentially be used to re-identify an individual. These include employee name in the form of [PERSON_3065], personal email, phone number (even if obfuscated), and specific details about their employment such as the organization name, position, and salary information.",
+    "mappings_count": 6
+  },
+  {
+    "email_id": "EMAIL_003",
+    "subject": "Health Insurance Enrollment Confirmation",
+    "context": "Insurance - Member Services",
+    "score": 3,
+    "risk_level": "High",
+    "remaining_pii": [
+      "PERSON_0708",
+      "PERSON_5612",
+      "POL-FAKE-556677",
+      "[DATE_4427]"
+    ],
+    "reasoning": "While some PII has been removed (names, account numbers, exact dates of birth), there are still several pieces of data that could be used to indirectly identify the individuals involved or re-identify them based on context. For example, the policy number and the detailed geographic location provided may be unique enough to pinpoint the individuals. The partial phone number and email address also serve as direct identifiers.",
+    "mappings_count": 6
+  },
+  {
+    "email_id": "EMAIL_004",
+    "subject": "System Access Provisioning Complete",
+    "context": "IT - Access Management",
+    "score": 3,
+    "risk_level": "High",
+    "remaining_pii": [
+      "PERSON_2672",
+      "amartinez@corporate.com",
+      "IT-EMP-55432",
+      "[ORDINAL_7650]"
+    ],
+    "reasoning": "Although some PII (email, employee ID) have been obfuscated with [PERSON_...] and [ORDINAL_...], the unique identifiers IT-EMP-55432 and [ORDINAL_7650] are still present. The username also includes a personal name (amartinez), which increases the risk of re-identification.",
+    "mappings_count": 2
+  },
+  {
+    "email_id": "EMAIL_005",
+    "subject": "Tax Document Request - 2025",
+    "context": "Finance - Tax Preparation",
+    "score": 3,
+    "risk_level": "High",
+    "remaining_pii": [
+      "DATE_6902",
+      "[PERSON_5171]",
+      "[PERSON_7828]",
+      "[ORG_7150]",
+      "[CARDINAL_7425]",
+      "TID-[DATE_6902]-001",
+      "[WORK_OF_ART_5183]",
+      "[DATE_0556]",
+      "[CARDINAL_1658]",
+      "[GPE_8521]",
+      "[GPE_8487]",
+      "[CARDINAL_6448]",
+      "[ORG_4562]",
+      "[ORG_8014]"
+    ],
+    "reasoning": "The text contains multiple personal identifiers such as dates (DATE_6902, [DATE_0556]), specific names ([PERSON_5171], [PERSON_7828], potential organizations [ORG_7150], [ORG_4562], [ORG_8014]), tax ID with a date component, and addresses including geographic locations. These details can provide enough information for re-identification, hence the high risk level.",
+    "mappings_count": 6
+  },
+  {
+    "email_id": "EMAIL_006",
+    "subject": "Loan Application Status Update",
+    "context": "Banking - Loan Processing",
+    "score": 3,
+    "risk_level": "High",
+    "remaining_pii": [
+      "[PERSON_7085]",
+      "[ORG_4815]",
+      "[CARDINAL_1829] Maple Avenue, [GPE_8127], WA 98101",
+      "[MONEY_6791]",
+      "[MONEY_1382]",
+      "[ORG_9263]",
+      "[CARDINAL_3945]",
+      "[DATE_2718]",
+      "[DATE_8604]"
+    ],
+    "reasoning": "While the text does not explicitly contain full names, addresses, phone numbers, or email addresses, it still includes unique identifiers ([PERSON_7085], [ORG_4815]), location details that can be narrowed down ([CARDINAL_1829] Maple Avenue, [GPE_8127], WA 98101), financial data (loan amount and annual income), potential organization names ([ORG_9263]), and dates ([DATE_2718], [DATE_8604]). These details may not immediately reveal an individual's identity, but they can provide significant information that could lead to re-identification if combined with other data. Furthermore, the text contains specific identifiers like ID numbers ([PERSON_7085] ID: [ORG_4815]) which might indicate a connection between the applicant and the organization.",
+    "mappings_count": 6
+  },
+  {
+    "email_id": "EMAIL_007",
+    "subject": "Medical Records Access Notification",
+    "context": "Healthcare - Patient Records",
+    "score": 4,
+    "risk_level": "High",
+    "remaining_pii": [
+      "[PERSON_8899]",
+      "[PERSON_9097]",
+      "[PERSON_0477]",
+      "[PERSON_2860] (spouse) [NORP_1521]",
+      "[CARDINAL_4583]",
+      "[CARDINAL_4209]"
+    ],
+    "reasoning": "The text contains multiple personal identifiers in the form of names ([PERSON_8899], [PERSON_9097], [PERSON_0477]), a spouse's name, and a cardinal number that may correspond to a national ID or social security number ([CARDINAL_4583], [CARDINAL_4209]). Additionally, while the addresses are not explicitly mentioned, detailed associations like 'Primary Care Physician: Dr. [PERSON_0477] Visit: [DATE_7553]' could potentially be used to narrow down the location. The presence of such critical PII indicates a high re-identification risk.",
+    "mappings_count": 6
+  },
+  {
+    "email_id": "EMAIL_008",
+    "subject": "Travel Reservation Confirmation",
+    "context": "Travel - Booking Confirmation",
+    "score": 4,
+    "risk_level": "Partially anonymized; critical PII still present",
+    "remaining_pii": [
+      "Passenger Name: [PERSON_3254]",
+      "Confirmation Code: ABCD[DATE_5226]",
+      "Passport Number: E[DATE_5226]5678",
+      "Flight: AA [DATE_5226] [GPE_2452] to [GPE_8217]",
+      "Hotel: Shinjuku Prince Hotel, [GPE_8217]",
+      "Reservation ID: HOTEL-9876",
+      "Total Cost: $[MONEY_7339]"
+    ],
+    "reasoning": "The text contains several elements that can be used to identify an individual. The Passenger Name, Confirmation Code, Passport Number, Flight details, Hotel name, Reservation ID and Total Cost all potentially contain personally identifiable information. However, some of the information (e.g., [DATE_5226], [GPE_2452], [GPE_8217], $[MONEY_7339]) are anonymized using placeholders, but their presence suggests a pattern that could be used for indirect inference.",
+    "mappings_count": 6
+  },
+  {
+    "email_id": "EMAIL_009",
+    "subject": "Scholarship Award Notification",
+    "context": "Education - Financial Aid",
+    "score": 4,
+    "risk_level": "High",
+    "remaining_pii": [
+      "[PERSON_2655]",
+      "[CARDINAL_6196]",
+      "[MONEY_7840]",
+      "[WORK_OF_ART_5626]",
+      "[DATE_5322]",
+      "[CARDINAL_9452]",
+      "[CARDINAL_5289]",
+      "[NORP_6562]"
+    ],
+    "reasoning": "While some personally identifiable information (PII) has been replaced with codes, the presence of student ID [PERSON_2655], scholarship ID [CARDINAL_6196], monetary amount [MONEY_7840], work of art ID [WORK_OF_ART_5626], date [DATE_5322], and addresses ([ORG_6633]: [COLLEGE DRIVE], [ORG_8799]: [NORP_6562]) still provide enough context for potential re-identification. This text is partially anonymized.",
+    "mappings_count": 7
+  },
+  {
+    "email_id": "EMAIL_010",
+    "subject": "Utility Account Setup Confirmation",
+    "context": "Utilities - Service Setup",
+    "score": 4,
+    "risk_level": "High",
+    "remaining_pii": [
+      "Account Holder: [PERSON_3667]",
+      "Service Address: 456 Elm Street, Apartment 3C, [GPE_1216], CO 80202",
+      "[PERSON_1193]ing Email: patricia.brown@email.com",
+      "Phone: [NORP_5803]",
+      "[PERSON_1193]ing Cycle: [DATE_1048] ([ORDINAL_5170] of each month)",
+      "[ORG_6630]"
+    ],
+    "reasoning": "Though some identifiers like the account number and phone number are not explicitly disclosed, they are replaced with identifiers that can potentially be linked back to personal information (e.g., [PERSON_xxxx], [NORP_yyyy]). The service address provides detailed geographic location, increasing re-identification risk. The email and account holder's name also contribute to the high level of risk.",
+    "mappings_count": 7
+  }
+]

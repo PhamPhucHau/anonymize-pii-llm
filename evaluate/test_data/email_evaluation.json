@@ -1,0 +1,62 @@
+[
+  {
+    "email_id": "EMAIL_001",
+    "subject": "Account Verification Required",
+    "context": "Banking - Fraud Detection",
+    "content": "We detected unusual activity on your checking account and require your confirmation.\nAccount Holder Name: Michael Turner\nCustomer ID: CUST-FAKE-102938\nDate of Birth: 1990-04-15\nPhone Number: +1-555-0101\nEmail Address: michael.turner@examplemail.com\nStreet Address: 742 Evergreen Terrace\nCity: Springfield\nState: CA\nPostal Code: 99999\nBank Name: NorthRiver Bank\nAccount Number: 5555 6666 7777 8888\nIf you do not recognize this activity, please contact our Security Desk immediately.\nSincerely,\nLaura Jenkins\nFraud Prevention Manager\nNorthRiver Bank"
+  },
+  {
+    "email_id": "EMAIL_002",
+    "subject": "Payroll Profile Verification",
+    "context": "HR - Employee Data",
+    "content": "Our records indicate that your payroll profile requires verification.\nEmployee Full Name: Sarah Collins\nEmployee ID: EMP-FAKE-77421\nNational ID Number: NID-XF-88291\nDate of Birth: 1995-09-22\nPersonal Email: sarah.collins@workmail.test\nPhone Number: +1-555-0102\nHome Address: 1208 Maple Drive, Brookfield, NY 88888\nBank Account for Salary: 9999 0000 1111 2222\nPlease update your information via the HR portal by Friday.\nBest regards,\nDaniel Wu\nHR Operations\nBlueOak Technologies"
+  },
+  {
+    "email_id": "EMAIL_003",
+    "subject": "Health Insurance Enrollment Confirmation",
+    "context": "Insurance - Member Services",
+    "content": "This email confirms your enrollment in the 2026 Health Insurance Plan.\nMember Name: David Nguyen\nPolicy Number: POL-FAKE-556677\nDate of Birth: 1987-01-30\nRegistered Address: 45 Harbor Road, Unit 3B, San Mateo, CA 94444\nPhone: +1-555-0103\nEmail: d.nguyen@insured.test\nIf any of the above information is incorrect, please notify us immediately.\nKind regards,\nEmily Rogers\nMember Services\nSunHealth Insurance"
+  },
+  {
+    "email_id": "EMAIL_004",
+    "subject": "System Access Provisioning Complete",
+    "context": "IT - Access Management",
+    "content": "Your corporate system access has been successfully provisioned.\nFull Name: Alex Martinez\nEmployee ID: IT-EMP-55432\nUsername: amartinez@corporate.com\nTemporary Password: TempPass123!@#\nSystem Access Level: Level 2\nDepartment: Engineering\nManager: Jennifer Park\nPlease change your temporary password on first login.\nIT Support Team"
+  },
+  {
+    "email_id": "EMAIL_005",
+    "subject": "Tax Document Request - 2025",
+    "context": "Finance - Tax Preparation",
+    "content": "We need to collect tax documents for your 2025 filing.\nTaxpayer Name: Robert Johnson\nSSN: 987-65-4321\nTax ID: TID-2025-001\nDate of Birth: 1980-06-18\nAddress: 555 Oak Street, Portland, OR 97200\nIncome Sources:\n- W-2 from TechCorp Industries\n- 1099 from Freelance Consulting\nPlease submit documentation by April 15, 2026.\nTax Department"
+  },
+  {
+    "email_id": "EMAIL_006",
+    "subject": "Loan Application Status Update",
+    "context": "Banking - Loan Processing",
+    "content": "Your mortgage loan application has been reviewed.\nApplicant: Jessica Wong\nApplication ID: LOAN-2025-88765\nProperty Address: 123 Maple Avenue, Seattle, WA 98101\nLoan Amount: $450,000\nAnnual Income: $125,000\nCredit Score: 750\nEstimated Monthly Payment: $2,650\nNext steps will be sent within 3 business days.\nMortgage Services Department"
+  },
+  {
+    "email_id": "EMAIL_007",
+    "subject": "Medical Records Access Notification",
+    "context": "Healthcare - Patient Records",
+    "content": "You have accessed your medical records.\nPatient Name: Christopher Lee\nPatient ID: MED-2025-44556\nDate of Birth: 1975-11-05\nPrimary Care Physician: Dr. Lisa Chen\nLast Visit: 2025-12-15\nBlood Type: O+\nMedical Conditions: Hypertension, Type 2 Diabetes\nEmergency Contact: Margaret Lee (spouse) +1-555-0104\nMedical Center Records System"
+  },
+  {
+    "email_id": "EMAIL_008",
+    "subject": "Travel Reservation Confirmation",
+    "context": "Travel - Booking Confirmation",
+    "content": "Your flight reservation has been confirmed.\nPassenger Name: Emily Taylor\nConfirmation Code: ABCD1234\nPassport Number: E12345678\nFlight: AA 1234 Seattle to Tokyo\nDeparture: 2026-03-20 at 10:30 AM\nSeat Assignment: 12A\nHotel: Shinjuku Prince Hotel, Tokyo\nReservation ID: HOTEL-9876\nTotal Cost: $3,450.00\nTrip Insurance: Included\nTravel Agency Support"
+  },
+  {
+    "email_id": "EMAIL_009",
+    "subject": "Scholarship Award Notification",
+    "context": "Education - Financial Aid",
+    "content": "Congratulations! You have been awarded a scholarship.\nStudent Name: Michael Chen\nStudent ID: STU-2025-33221\nUniversity: State University\nAmount Awarded: $15,000\nAcademic Year: 2025-2026\nGPA Requirement: 3.5 or higher\nAddress on File: 789 College Drive, Student Housing Unit B\nPhone: +1-555-0105\nScholarship must be applied toward tuition before August 31, 2025.\nFinancial Aid Office"
+  },
+  {
+    "email_id": "EMAIL_010",
+    "subject": "Utility Account Setup Confirmation",
+    "context": "Utilities - Service Setup",
+    "content": "Your utility account has been successfully created.\nAccount Holder: Patricia Brown\nAccount Number: 5544332211\nService Address: 456 Elm Street, Apartment 3C, Denver, CO 80202\nService Type: Electric and Gas\nBilling Email: patricia.brown@email.com\nPhone: +1-555-0106\nBilling Cycle: Monthly (15th of each month)\nAutomatic Payment: Enabled\nEstimated Monthly Bill: $150\nEnergy Provider Support Team"
+  }
+]
